@@ -1,1 +1,0 @@
-alert("you have entered at a interesting webpage");
